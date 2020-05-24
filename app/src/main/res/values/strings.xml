@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework05</string>
+    <string name="start_download">start Download</string>
+    <string name="stop_download">stop download</string>
+    <string name="restart_download">restart download</string>
+    <string name="click_to_start_download">Click button to start download</string>
+</resources>
